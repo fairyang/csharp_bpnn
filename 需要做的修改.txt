@@ -1,0 +1,10 @@
+
+1.将文件夹里的test1.sql文件导入MYSQL数据库
+参考:
+https://blog.csdn.net/weixin_44089970/article/details/122863922
+也可以百度搜你能理解的
+
+2.修改数据库的连接
+Class1文件最上面部分，按照我的注释，改connetStr1="" 引号里面内容
+
+3.点vs2019里的绿色三角按钮启动就可以了

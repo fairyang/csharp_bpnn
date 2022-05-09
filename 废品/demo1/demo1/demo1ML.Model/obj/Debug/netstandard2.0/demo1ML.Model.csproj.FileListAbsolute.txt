@@ -1,0 +1,10 @@
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\bin\Debug\netstandard2.0\demo1ML.Model.deps.json
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\bin\Debug\netstandard2.0\demo1ML.Model.dll
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\bin\Debug\netstandard2.0\demo1ML.Model.pdb
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\obj\Debug\netstandard2.0\demo1ML.Model.csproj.AssemblyReference.cache
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\obj\Debug\netstandard2.0\demo1ML.Model.AssemblyInfoInputs.cache
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\obj\Debug\netstandard2.0\demo1ML.Model.AssemblyInfo.cs
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\obj\Debug\netstandard2.0\demo1ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\obj\Debug\netstandard2.0\demo1ML.Model.dll
+C:\Users\fair yang\Desktop\demo1\demo1\demo1ML.Model\obj\Debug\netstandard2.0\demo1ML.Model.pdb

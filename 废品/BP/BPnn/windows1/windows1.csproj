@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>windows1.Program</StartupObject>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.29" />
+    <PackageReference Include="System.Windows.Forms.DataVisualization" Version="1.0.0-prerelease.20110.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BPnnML.ConsoleApp\BPnnML.ConsoleApp.csproj" />
+    <ProjectReference Include="..\BPnnML.Model\BPnnML.Model.csproj" />
+    <ProjectReference Include="..\BPnn\BPnn.csproj" />
+  </ItemGroup>
+
+</Project>
